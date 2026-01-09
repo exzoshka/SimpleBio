@@ -24,9 +24,9 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=exzoshka&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exzoshka&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ---
 
@@ -61,14 +61,14 @@
 
 ## 📈 Активность
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0D1117)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=exzoshka&theme=redical&hide_border=true&bg_color=0D1117)
 
 ---
 
 ## 📝 Контакты
 
-- 📧 Email: [techveli.ssh@gmail.com]
-- 🌐 Discord: [exzoshka]
+- 📧 Email: techveli.ssh@gmail.com
+- 🌐 Discord: exzoshka
 
 ---
 
